@@ -1,0 +1,68 @@
+/*
+ Theme Name:   Izabel Child
+ Theme URI:    http://example.com/izabel-child/
+ Description:  Izabel Child Theme
+ Author:       Pernille K. Hansen 
+ Author URI:   http://example.com
+ Template:     Izabel
+ Version:      1.0.0
+ Text Domain:  Izabelchild
+*/
+
+.wp-image-15 {
+    max-width: 30% !important;
+	float: left;
+	margin: 0 30px 30px 0;
+	width: 300px;
+}
+.wp-image-15 + p {
+	clear: left;
+}
+.wp-image-312 {
+	margin: 0 350px;
+	width: 600px;
+}
+.wp-image-54 {
+	width: 250px;
+	margin: 0 100px;
+}
+.wp-image-55 {
+	width: 250px;
+	margin: 0 100px;
+}
+.wp-image-79 {
+	width: 250px; 
+	margin: 0 100px;
+}
+.wp-image-273 {
+	width: 250px;
+	margin: 0 100px;
+}
+.wp-image-274 {
+	width: 250px;
+	margin: 0 100px;
+}
+.wp-image-275 {
+	width: 250px;
+	margin: 0 100px; 
+}
+.wp-image-251 {
+	width: 400px;
+}
+.wp-image-257 {
+	width: 400px;
+}
+.entry-content h2 {
+	clear: both;
+	border-top: 3px solid orange;
+	padding-top: 30px;
+}
+@media screen and (min-width: 64em){
+.content-area {
+    margin: 0 auto;
+    max-width: 100%;
+    width: 60%;
+}}
+.custom-header-media{
+	margin: -100px;
+}
